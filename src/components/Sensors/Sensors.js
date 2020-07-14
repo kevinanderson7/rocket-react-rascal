@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import GyroscopicSensor from '../GyroscopicSensor/GyroscopicSensor';
 import IonDriveSensor from '../IonDriveSensor/1onDriveSensor';
 import FlameSensor from '../FlameSensor/FlameSensor'; // Your flames don't look very... flamey
-
+import './Sensors.css';
 // This used to look so pretty! What's the problem? Did you lose your sense of style?
 
 class Sensors extends Component {
